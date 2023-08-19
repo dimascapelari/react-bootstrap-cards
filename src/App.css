@@ -1,0 +1,29 @@
+.card-container {
+  background-color: black;
+}
+
+.row {
+  display: flex;
+}
+
+.card {
+  width: 300px;
+}
+.card1 {
+  background-color: azure;
+}
+.card2 {
+  background-color: rgb(10, 248, 248);
+}
+.card3 {
+  background-color: rgb(72, 107, 107);
+}
+.card4 {
+  background-color: rgb(84, 115, 201);
+}
+
+.selected-card {
+  background-color: rgb(211, 204, 204);
+  height: 100vh;
+  /* margin-top: -20px; */
+}
